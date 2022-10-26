@@ -1,0 +1,70 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+.img2{
+  background-color: cyan;
+}
+body {
+  background-color: yellow;
+}
+.winner{
+  background-color: crimson;
+  display: inline-block;
+  color: #232931;
+  padding: 5px;
+  border-radius: 5px;
+  border-style: groove;
+  box-shadow: slategrey;
+}
+.btn{
+  width: 75px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: cyan;
+  box-shadow: cyan;
+  padding: 15px;
+  cursor: pointer;
+  touch-action: pan-x;
+  text-decoration-style: double;
+}
+.foot{
+  height: 40px;
+
+  background-color: skyblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: crimson;
+}
+
+p {
+  font-size: 2rem;
+  color: fuchsia;
+  font-weight: 600;
+  font-size: xx-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 10%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
